@@ -20,7 +20,7 @@ export const first151Pokemon = [
 
 export const pokemonTypeColors = {
     normal: {
-        color: "#6C6C6C",
+        color: "#FFFFFF",
         background: "#A8A77A"
     },
     fire: {
@@ -32,7 +32,7 @@ export const pokemonTypeColors = {
         background: "#6390F0"
     },
     electric: {
-        color: "#000000",
+        color: "#FFFFFF",
         background: "#F7D02C"
     },
     grass: {
@@ -40,7 +40,7 @@ export const pokemonTypeColors = {
         background: "#7AC74C"
     },
     ice: {
-        color: "#000000",
+        color: "#FFFFFF",
         background: "#96D9D6"
     },
     fighting: {
@@ -56,7 +56,7 @@ export const pokemonTypeColors = {
         background: "#E2BF65"
     },
     flying: {
-        color: "#000000",
+        color: "#FFFFFF",
         background: "#A98FF3"
     },
     psychic: {
@@ -64,7 +64,7 @@ export const pokemonTypeColors = {
         background: "#F95587"
     },
     bug: {
-        color: "#000000",
+        color: "#FFFFFF",
         background: "#A6B91A"
     },
     rock: {
@@ -84,11 +84,11 @@ export const pokemonTypeColors = {
         background: "#705746"
     },
     steel: {
-        color: "#000000",
+        color: "#FFFFFF",
         background: "#B7B7CE"
     },
     fairy: {
-        color: "#000000",
+        color: "#FFFFFF",
         background: "#D685AD"
     }
 }
